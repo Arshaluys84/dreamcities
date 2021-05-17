@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/dreamcities/static/css/main.a14823b3.chunk.css",
+    "main.js": "/dreamcities/static/js/main.9deb3245.chunk.js",
+    "main.js.map": "/dreamcities/static/js/main.9deb3245.chunk.js.map",
+    "runtime-main.js": "/dreamcities/static/js/runtime-main.1b710d59.js",
+    "runtime-main.js.map": "/dreamcities/static/js/runtime-main.1b710d59.js.map",
+    "static/js/2.5ce25609.chunk.js": "/dreamcities/static/js/2.5ce25609.chunk.js",
+    "static/js/2.5ce25609.chunk.js.map": "/dreamcities/static/js/2.5ce25609.chunk.js.map",
+    "index.html": "/dreamcities/index.html",
+    "static/css/main.a14823b3.chunk.css.map": "/dreamcities/static/css/main.a14823b3.chunk.css.map",
+    "static/js/2.5ce25609.chunk.js.LICENSE.txt": "/dreamcities/static/js/2.5ce25609.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1b710d59.js",
+    "static/js/2.5ce25609.chunk.js",
+    "static/css/main.a14823b3.chunk.css",
+    "static/js/main.9deb3245.chunk.js"
+  ]
+}
